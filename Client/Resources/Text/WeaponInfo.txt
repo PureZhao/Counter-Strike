@@ -1,0 +1,8 @@
+AK47,Rifle,2500,30,90,false
+M4A1,Rifle,3100,30,90,true
+AWP,Rifle,4750,10,30,true
+Glock18,Pistol,200,20,100,false
+USP,Pistol,300,12,24,true
+Knife,Knife,U/N,U/N,U/N,false
+Grenade,Grenade,300,1,0,false
+Bomb,Bomb,U/N,U/N,U/N,false
