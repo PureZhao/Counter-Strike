@@ -1,0 +1,8 @@
+E:\Softwares\PhotonServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\MyGameServer\bin\MyGameServer.dll
+E:\Softwares\PhotonServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\MyGameServer\bin\MyGameServer.pdb
+E:\Softwares\PhotonServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\MyGameServer\bin\log4net.config
+E:\Softwares\PhotonServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\PureGameServer\bin\log4net.config
+E:\Softwares\PhotonServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\PureGameServer\bin\PureGameServer.dll
+E:\Softwares\PhotonServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\PureGameServer\bin\PureGameServer.pdb
+C:\Users\pure\Documents\Visual Studio 2012\Projects\MyGameServer\MyGameServer\obj\Debug\PureGameServer.dll
+C:\Users\pure\Documents\Visual Studio 2012\Projects\MyGameServer\MyGameServer\obj\Debug\PureGameServer.pdb

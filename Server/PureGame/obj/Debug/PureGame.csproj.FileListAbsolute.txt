@@ -1,0 +1,5 @@
+C:\Users\pure\Documents\Visual Studio 2012\Projects\PureGame\bin\Debug\PureGame.dll
+C:\Users\pure\Documents\Visual Studio 2012\Projects\PureGame\bin\Debug\PureGame.pdb
+C:\Users\pure\Documents\Visual Studio 2012\Projects\PureGame\obj\Debug\PureGame.dll
+C:\Users\pure\Documents\Visual Studio 2012\Projects\PureGame\obj\Debug\PureGame.pdb
+C:\Users\pure\Documents\Visual Studio 2012\Projects\PureGame\obj\Debug\PureGame.csprojResolveAssemblyReference.cache
